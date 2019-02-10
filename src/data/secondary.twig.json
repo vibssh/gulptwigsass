@@ -1,0 +1,7 @@
+{
+  "title":"Secondary title page",
+  "description":"A Gulp setup for Twig",
+  "paragraph": "A quick brown fox jumps the river",
+  "someClass":"secondary",
+  "subPara":"I need to be able to use this with webpack too bro !"
+}
